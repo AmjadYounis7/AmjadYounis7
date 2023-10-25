@@ -5,8 +5,8 @@ Hello there! I'm Amjad, a passionate individual who loves exploring the world of
 ### 🎓 Education
 
 - 🏫 Studied Information Technology and Web Development
-- 📚 [Name of the Institution/School], [Location]
-- 📆 Graduated: [Year of Graduation]
+- 📚 Lebanese International University, Lebanon.
+- 📆 Graduated: 2023
 
 ### 🚀 Skills
 
